@@ -35,6 +35,3 @@ Whether you’re a complete beginner or an aspiring developer, you’ll find the
 
 > Start your coding journey with confidence—**join the CodeWithAbhi community today!**
 
----
-
-![CodeWithAbhi Banner](https://codewithabhi.in/assets/banner.png) <!-- Replace with your banner image URL if you have one -->
