@@ -37,4 +37,4 @@ Whether you’re a complete beginner or an aspiring developer, you’ll find the
 
 ---
 
-![CodeWithAbhi Banner](https://codewithabhi.in/banner.png) <!-- Replace with your banner image URL if you have one -->
+![CodeWithAbhi Banner](https://codewithabhi.in/assets/banner.png) <!-- Replace with your banner image URL if you have one -->
