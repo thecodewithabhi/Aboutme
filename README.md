@@ -35,3 +35,4 @@ Whether you’re a complete beginner or an aspiring developer, you’ll find the
 
 > Start your coding journey with confidence—**join the CodeWithAbhi community today!**
 
+![CodewithAbhi Cover Page 1](https://github.com/user-attachments/assets/c23861be-d108-43c1-9887-c0b82a6fedb0)
